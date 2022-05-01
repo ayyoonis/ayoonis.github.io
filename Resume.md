@@ -19,7 +19,7 @@
 
 ## DATA SCIENCE PROJECTS
 
-#### Sparkify Churn: Capstone Project | [Project Link](https://abdishakury.github.io/Project_Capstone_Of_Sparkify)
+#### Sparkify Churn: Capstone Project | [Project Link](https://ayyoonis.github.io/ayoonis.github.io/Project_Capstone_Of_Sparkify)
 ###### Apr 2022
 - Loading and cleaning a small subset (128MB) of a full dataset available (12GB). 
 - Conducting Exploratory Data Analysis to understand the data and what features are useful for predicting churn. 
@@ -35,7 +35,7 @@
 - Maximized F1 score through feature engineering and parameter tuning.
 
 
-#### Communicate Data Finding | [Project Link](https://abdishakury.github.io/Communicate_Data_Finding) 
+#### Communicate Data Finding | [Project Link](https://ayyoonis.github.io/ayoonis.github.io/Communicate_Data_Finding) 
 ###### May 2021
 - I will investigate Ford GoBike System Dataset, assess its quality and tidiness, then clean it which called data wrangling
 - Ford GoBike System Dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
@@ -70,9 +70,7 @@
   into business insight.
    
 ## EDUCATION
-- MSc Data Science/Analytics, *Brunel University*, Nov 2021
-- MSc Software Engineering, *Kingston University*, Dec 2016
-- BSc Software Engineering, *London Metropolitan University*, Jul 2014
+- Computing Diploma, *Tower Hamlets College*, Jul 2011
 - Microsoft Certified Software Developer, *Microsoft UK – Certificate*, Feb 2014
 - Exploratory Data Analysis in Excel, *LinkedIn Learning – Certificate*, 2018
 - Exploratory Data Analysis in SQL, *Datacamp – Certificate*, 2019
@@ -89,7 +87,7 @@
 - Data Science Nanodegree, *Udacity – Certificate*, April 2022
 - AWS Machine Learning, *Udacity – Certificate*, Aug 2021
 
-### Download Resume [here](https://github.com/Abdishakury/Portfolio/blob/main/Abdishakur_Yoonis_Resume.pdf)
+### Download Resume [here](https://github.com/ayyoonis/Portfolio/blob/main/Abdishakur_Yoonis_Resume.pdf)
 
 
 
