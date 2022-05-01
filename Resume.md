@@ -58,16 +58,24 @@
 - Maintain Amazon Robotics drives and bins by clearing crashes, clearing objects underneath drives
 - Reporting heavy situations to Facilities Operational Managers
 
-#### Data Analyst, *Homes4all, Bristol, UK*
+#### Mail Sorter, *Angard Staffing, Slough, UK*
 ###### SEP 2016 – SEP 2019 Previous 
-- Managing master data, including creation, updates, deletion and helping develop reports and Data analysis.
--	Managing and designing the reporting environment, including data sources, security, and metadata.
--	Data Mining and Modeling: Collected, cleansed and provided modeling and analyses of structured and unstructured data used for major business initiatives.
--	Providing technical expertise on data storage structures, data mining, and data cleansing and supporting initiatives
-  for data integrity and normalization as well as troubleshooting the reporting database environment and reports using
-  Advanced excel, VBA, Python, R, Power BI, Tableau and Advanced SQL server with Data Analytics, Data Processing and Data Visualisation and interprets data and turns 
-  it into information which can offer ways to improve a business, thus affecting business decisions as well as gather information from various sources and interpret       patterns and trends.I worked with large data sets and using business analytic methods, statistical models and data analysis technical skills turn data 
-  into business insight.
+- Excellent sorting mails and parcels including primary and secondary, tipping, cutting, segregating, Fiscal charge, TD,
+  E‐Prime, Red bags and Express custom, scanning, bag induct, bag closing, changing yorks and dispatching i.e., dock
+  doors with excellent team working and organisational skills
+-	Excellent quick Sorting mails, segregating efficiently, scanning accurately, collecting progressively and working safely
+  with good manner
+-	Bundling mail and parcels within a set area
+-	Working flexible hours to deliver the outstanding levels of service our customers have come to expect
+-	Working overtime when required, and working unsociable hours
+-	Using a hand‐held computer device to scan barcodes from International Mail and Parcels
+-	The ability to work in a team and individually
+-	Accuracy and attention to detail
+-	Ability to work under pressure, problem solving and meet targets and deadlines
+-	Flexible outlook and openness to change be willing to carry out a variety of tasks and on occasions work at nearby
+  offices/take on additional work
+- Taking care of Foreign to Foreign, Mail/Parcel Damages, Signed for and Express
+- Excellent communication and interpersonal skills, ability to interact effectively with people at all levels
    
 ## EDUCATION
 - Computing Diploma, *Tower Hamlets College*, Jul 2011
