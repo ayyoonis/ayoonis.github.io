@@ -29,7 +29,7 @@ The project involved:
 - Feature Engineering to create features that will be used in the modelling process
 - Modelling using machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boosted Trees, Linear SVM, Naive Bayes 
 
-## [Predicting Price Seattle](https://abdishakury.github.io/Predicting-Price-Seattle)
+## [Predicting Price Seattle](https://github.com/ayyoonis/Predicting-Price-Seattle)
 ##### Feb 2021 – Mar 2021
 I was curious to look into the AirBnB dataset for Seattle. I needed to discover more about pricing patterns, customer feedback, and pricing forecasting. Some of the questions I've looked into are:
  
