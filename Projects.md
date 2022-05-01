@@ -33,7 +33,7 @@ The project involved:
 ##### Feb 2021 – Mar 2021
 I was curious to look into the AirBnB dataset for Seattle. I needed to discover more about pricing patterns, customer feedback, and pricing forecasting. Some of the questions I've looked into are:
  
-## [Article Recommendations](https://abdishakury.github.io/Recommendations-IBM)
+## [Article Recommendations](https://ayyoonis.github.io/ayoonis.github.io/Recommendations-IBM)
 ##### Apr 2022
 This project focuses on analyzing interactions between users and articles on the IBM Watson Studio platform. New article recommendations are made to users based on their interactions with articles. Based on the data available, we can use various methods to make these recommendations. The methods used here are **Rank Based**, **Collaborative Filtering**, and **Matrix Factorization**.
 
