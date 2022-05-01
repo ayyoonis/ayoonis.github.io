@@ -66,7 +66,7 @@ This project focuses on analyzing interactions between users and articles on the
    from customers.
 
 
-## [Analyze AB Test Results](https://abdishakury.github.io/Analyze_AB_Test_Results) 
+## [Analyze AB Test Results](https://ayyoonis.github.io/ayoonis.github.io/Analyze_AB_Test_Results) 
 ##### Apr 2021 
  - Remove duplicates or records with missing or mismatched values
  - Handle the rows where the landing_page and group columns don't align
@@ -81,7 +81,7 @@ This project focuses on analyzing interactions between users and articles on the
 
 The findings show that the new and old pages have roughly equivalent chances of converting users, based on the statistical tests we conducted, the Z-test, logistic regression model, and actual difference identified. The null hypothesis is not rejected. I advise the e-commerce business to retain the old page. This would save you time and money by avoiding the need to establish a new website.
 
-## [Wrangle And Analyze Data of **WeRateDogs**](https://abdishakury.github.io/wrangle-and-analyze-data)
+## [Wrangle And Analyze Data of **WeRateDogs**](https://ayyoonis.github.io/ayoonis.github.io/wrangle-and-analyze-data)
 ##### Jun 2021
 The dataset that I will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as **WeRateDogs**. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
 The **Tweet Image Predictions**, i.e., what breed of dog (or other object, animal, etc.) is present in each tweet according to a neural network. This file (image_predictions.tsv) is hosted on Udacity's servers and should be downloaded programmatically using the Requests library and the following **URL**: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv
