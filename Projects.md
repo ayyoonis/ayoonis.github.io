@@ -45,7 +45,7 @@ This project focuses on analyzing interactions between users and articles on the
  - Maximized *F1 score* through feature engineering and parameter tuning.
 
 
-## [Communicate Data Finding](https://abdishakury.github.io/Communicate_Data_Finding) 
+## [Communicate Data Finding](https://ayyoonis.github.io/ayoonis.github.io/Communicate_Data_Finding) 
 ##### May 2021
  - I will investigate Ford GoBike System Dataset, assess its quality and tidiness, then clean it which called data wrangling.
  - Ford GoBike System Dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
