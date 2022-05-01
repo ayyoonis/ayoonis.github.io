@@ -17,7 +17,7 @@
  - **Technical Skills**: Data Collection, Data Wrangling/Cleaning, Exploratory Data Analysis (EDA), Hypothesis Testing, Statistical Analysis, Deep Learning, Machine Learning, Regression, Classification, Clustering, Version Control (Git)
  
 
-## DATA SCIENCE PROJECTS
+## DATA SCIENCE AND DATA ANALYSIS PROJECTS
 
 #### Sparkify Churn: Capstone Project | [Project Link](https://ayyoonis.github.io/ayoonis.github.io/Project_Capstone_Of_Sparkify)
 ###### Apr 2022
@@ -49,7 +49,7 @@
 - User with Age between 25 and 35 are making top of number of trips
 
 ## EXPERIENCE
-#### Robotics Amnesty Responder, *AMAZON UK, Swindon, UK*
+#### Picker, *AMAZON UK, Swindon, UK*
 ###### JUN 2021 – Permanent 
 - Managing Amazon Robotics floor operations clearing the floor of obstructions, rebooting drives, resetting and clearing jams.
 - Organising misplaced products and add back products that meet quality standards
