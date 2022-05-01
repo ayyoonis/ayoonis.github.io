@@ -58,7 +58,7 @@
 - Maintain Amazon Robotics drives and bins by clearing crashes, clearing objects underneath drives
 - Reporting heavy situations to Facilities Operational Managers
 
-#### Data Scientist, Data Analyst and Software Engineer, *Homes4all, Bristol, UK*
+#### Data Analyst, *Homes4all, Bristol, UK*
 ###### SEP 2016 – SEP 2019 Previous 
 - Managing master data, including creation, updates, deletion and helping develop reports and Data analysis.
 -	Managing and designing the reporting environment, including data sources, security, and metadata.
