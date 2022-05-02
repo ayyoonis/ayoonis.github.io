@@ -5,7 +5,7 @@ title: All Projects
 
 Compilation of personal and online courses projects. This portfolio, as a whole, aims to demonstrate proven experience in Data Science principals including obtaining/cleaning data, building ***Extract, Transform, Load, (ETL)*** pipelines, ***Exploratory Data Analysis*** (EDA), and building and validating ***Machine Learning*** models.
 
-## [Project Capstone Of Sparkify](https://abdishakury.github.io/Project_Capstone_Of_Sparkify)
+## [Project Capstone Of Sparkify](https://ayyoonis.github.io/ayoonis.github.io/Project_Capstone_Of_Sparkify)
 ##### Mar 2022 – Apr 2022
 In this project, I will load and manipulate a music app dataset similar to Spotify with Spark to engineer relevant features for predicting churn. Where Churn is cancelling their service altogether. By identifying these customers before they churn, the business can offer discounts and incentives to stay thereby potentially saving the business revenue. 
 
