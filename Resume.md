@@ -1,6 +1,6 @@
 # Abdishakur Yoonis
 
-##### Abdishakuryh@gmail.com | 447306445645
+##### ayoonis2000@gmail.com | 447306445645
 ##### Slough, UK
 ##### [LinkedIn](https://www.linkedin.com/in/ayoonis/) | [GitHub](https://github.com/ayyoonis) | [Portfolio](https://github.com/ayyoonis/ayoonis.github.io)
  
