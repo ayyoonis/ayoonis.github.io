@@ -59,7 +59,7 @@
 - Reporting heavy situations to Facilities Operational Managers
 
 #### Mail Sorter, *Angard Staffing, Slough, UK*
-###### SEP 2016 – SEP 2019 Previous 
+###### JUL 2015 – AUG 2021 Previous 
 - Excellent sorting mails and parcels including primary and secondary, tipping, cutting, segregating, Fiscal charge, TD,
   E‐Prime, Red bags and Express custom, scanning, bag induct, bag closing, changing yorks and dispatching i.e., dock
   doors with excellent team working and organisational skills
