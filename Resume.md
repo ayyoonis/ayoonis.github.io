@@ -2,7 +2,7 @@
 
 ##### ayoonis2000@gmail.com | 447306445645
 ##### Slough, UK
-##### [LinkedIn](https://www.linkedin.com/in/ayoonis/) | [GitHub](https://github.com/ayyoonis) | [Portfolio](https://ayyoonis.github.io/ayoonis.github.io/)
+##### [LinkedIn](https://www.linkedin.com/in/ayoonis/) | [GitHub](https://github.com/ayyoonis) | [Portfolio](https://ayyoonis.github.io/)
  
  
 ## SKILLS
@@ -19,7 +19,7 @@
 
 ## DATA SCIENCE AND DATA ANALYSIS PROJECTS
 
-#### Sparkify Churn: Capstone Project | [Project Link](https://ayyoonis.github.io/ayoonis.github.io/Project_Capstone_Of_Sparkify)
+#### Sparkify Churn: Capstone Project | [Project Link](https://ayyoonis.github.io/Project_Capstone_Of_Sparkify)
 ###### Apr 2022
 - Loading and cleaning a small subset (128MB) of a full dataset available (12GB). 
 - Conducting Exploratory Data Analysis to understand the data and what features are useful for predicting churn. 
@@ -35,7 +35,7 @@
 - Maximized F1 score through feature engineering and parameter tuning.
 
 
-#### Communicate Data Finding | [Project Link](https://ayyoonis.github.io/ayoonis.github.io/Communicate_Data_Finding) 
+#### Communicate Data Finding | [Project Link](https://ayyoonis.github.io/Communicate_Data_Finding) 
 ###### May 2021
 - I will investigate Ford GoBike System Dataset, assess its quality and tidiness, then clean it which called data wrangling
 - Ford GoBike System Dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
