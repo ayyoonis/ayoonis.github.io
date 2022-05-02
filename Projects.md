@@ -5,7 +5,7 @@ title: All Projects
 
 Compilation of personal and online courses projects. This portfolio, as a whole, aims to demonstrate proven experience in Data Science principals including obtaining/cleaning data, building ***Extract, Transform, Load, (ETL)*** pipelines, ***Exploratory Data Analysis*** (EDA), and building and validating ***Machine Learning*** models.
 
-## [Project Capstone Of Sparkify](https://ayyoonis.github.io/ayoonis.github.io/Project_Capstone_Of_Sparkify)
+## [Project Capstone Of Sparkify](https://ayyoonis.github.io/Project_Capstone_Of_Sparkify)
 ##### Mar 2022 – Apr 2022
 In this project, I will load and manipulate a music app dataset similar to Spotify with Spark to engineer relevant features for predicting churn. Where Churn is cancelling their service altogether. By identifying these customers before they churn, the business can offer discounts and incentives to stay thereby potentially saving the business revenue. 
 
@@ -29,11 +29,11 @@ The project involved:
 - Feature Engineering to create features that will be used in the modelling process
 - Modelling using machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boosted Trees, Linear SVM, Naive Bayes 
 
-## [Predicting Price Seattle](https://ayyoonis.github.io/ayoonis.github.io/Predicting-Price-Seattle)
+## [Predicting Price Seattle](https://ayyoonis.github.io/Predicting-Price-Seattle)
 ##### Feb 2021 – Mar 2021
 I was curious to look into the AirBnB dataset for Seattle. I needed to discover more about pricing patterns, customer feedback, and pricing forecasting. Some of the questions I've looked into are:
  
-## [Article Recommendations](https://ayyoonis.github.io/ayoonis.github.io/Recommendations-IBM)
+## [Article Recommendations](https://ayyoonis.github.io/Recommendations-IBM)
 ##### Apr 2022
 This project focuses on analyzing interactions between users and articles on the IBM Watson Studio platform. New article recommendations are made to users based on their interactions with articles. Based on the data available, we can use various methods to make these recommendations. The methods used here are **Rank Based**, **Collaborative Filtering**, and **Matrix Factorization**.
 
@@ -45,7 +45,7 @@ This project focuses on analyzing interactions between users and articles on the
  - Maximized *F1 score* through feature engineering and parameter tuning.
 
 
-## [Communicate Data Finding](https://ayyoonis.github.io/ayoonis.github.io/Communicate_Data_Finding) 
+## [Communicate Data Finding](https://ayyoonis.github.io/Communicate_Data_Finding) 
 ##### May 2021
  - I will investigate Ford GoBike System Dataset, assess its quality and tidiness, then clean it which called data wrangling.
  - Ford GoBike System Dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
@@ -66,7 +66,7 @@ This project focuses on analyzing interactions between users and articles on the
    from customers.
 
 
-## [Analyze AB Test Results](https://ayyoonis.github.io/ayoonis.github.io/Analyze_AB_Test_Results) 
+## [Analyze AB Test Results](https://ayyoonis.github.io/Analyze_AB_Test_Results) 
 ##### Apr 2021 
  - Remove duplicates or records with missing or mismatched values
  - Handle the rows where the landing_page and group columns don't align
@@ -81,7 +81,7 @@ This project focuses on analyzing interactions between users and articles on the
 
 The findings show that the new and old pages have roughly equivalent chances of converting users, based on the statistical tests we conducted, the Z-test, logistic regression model, and actual difference identified. The null hypothesis is not rejected. I advise the e-commerce business to retain the old page. This would save you time and money by avoiding the need to establish a new website.
 
-## [Wrangle And Analyze Data of **WeRateDogs**](https://ayyoonis.github.io/ayoonis.github.io/wrangle-and-analyze-data)
+## [Wrangle And Analyze Data of **WeRateDogs**](https://ayyoonis.github.io/wrangle-and-analyze-data)
 ##### Jun 2021
 The dataset that I will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as **WeRateDogs**. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
 The **Tweet Image Predictions**, i.e., what breed of dog (or other object, animal, etc.) is present in each tweet according to a neural network. This file (image_predictions.tsv) is hosted on Udacity's servers and should be downloaded programmatically using the Requests library and the following **URL**: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv
