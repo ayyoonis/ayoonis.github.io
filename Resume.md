@@ -2,7 +2,7 @@
 
 ##### ayoonis2000@gmail.com | 447306445645
 ##### Slough, UK
-##### [LinkedIn](https://www.linkedin.com/in/ayoonis/) | [GitHub](https://github.com/ayyoonis) | [Portfolio](https://ayyoonis.github.io/ayoonis.github.io/)
+##### [LinkedIn](https://www.linkedin.com/in/ayoonis/) | [GitHub](https://github.com/ayyoonis) | [Portfolio](https://ayyoonis.github.io/ayoonis.github.io/Resume)
  
  
 ## SKILLS
