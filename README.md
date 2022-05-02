@@ -1,2 +1,2 @@
-# ayyoonis.github.io/
+# ayyoonis.github.io
 Personal website using GitHub Pages
