@@ -16,7 +16,7 @@
 
 The Disaster Response Pipeline Project is the data engineer project assigned by Udacity data scientist nanodegree. This project builds a **Machine Learning Natural Language Processing pipeline** to categorize emergency messages based on the needs communicated by the sender. 
 
-### Website: https://abdishakur-disaster-response.herokuapp.com/
+### Website:| [Project Link] https://abdishakur-disaster-response.herokuapp.com/
 
 ## Requirements <a name="Requirements"></a>
 
@@ -128,7 +128,7 @@ The web deployment steps:
 
 ## Licensing, Authors, Acknowledgements <a name="License"></a>
 **Licensing**
-Begin license text.
+
 Copyright **2022** <COPYRIGHT Abdishakur Yoonis>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
