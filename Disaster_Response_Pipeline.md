@@ -1,8 +1,6 @@
 # **Disaster Response Pipeline Project**
 
-
-![img1](https://user-images.githubusercontent.com/104604618/166609992-857fbb82-27a8-4c95-a5c8-4f66fa88edf8.png)
-
+![disaster](https://user-images.githubusercontent.com/104604618/166610547-f0172c63-dd99-4699-b6ff-c743d0cccb56.jpg)
 
 
 - [Description](#Description)
@@ -124,8 +122,8 @@ The web deployment steps:
 
 3. Go to the website that is showed in your command line, should be something like http://0.0.0.0:3001/ 
 
-## Screenshots <a name="Screenshots"></a>
-![Screen Shot](imgs/img1.png?raw=true)
+![img1](https://user-images.githubusercontent.com/104604618/166610611-db660469-ef8e-4b96-85fd-068044c9ea1d.png)
+
 
 ## Licensing, Authors, Acknowledgements <a name="License"></a>
 **Licensing**
