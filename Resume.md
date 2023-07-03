@@ -2,7 +2,7 @@
 
 ##### ayoonis2000@gmail.com | 447306445645
 ##### Slough, UK
-##### [LinkedIn](https://www.linkedin.com/in/ayyoonis/) | [GitHub](https://github.com/ayyoonis) | [Portfolio (https://github.com/ayyoonis/Portfolio/blob/main/ABDISHAKUR YOONIS_Resume.docx)
+##### [LinkedIn](https://www.linkedin.com/in/ayyoonis/) | [GitHub](https://github.com/ayyoonis) | [Portfolio](https://github.com/ayyoonis/Portfolio/)
  
  
 ## SKILLS
