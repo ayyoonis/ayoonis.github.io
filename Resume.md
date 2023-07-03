@@ -2,7 +2,7 @@
 
 ##### ayoonis2000@gmail.com | 447306445645
 ##### Slough, UK
-##### [LinkedIn](https://www.linkedin.com/in/ayyoonis/) | [GitHub](https://github.com/ayyoonis) | [Portfolio](https://ayyoonis.github.io/)
+##### [LinkedIn](https://www.linkedin.com/in/ayyoonis/) | [GitHub](https://github.com/ayyoonis) | [Portfolio (https://github.com/ayyoonis/Portfolio/blob/main/ABDISHAKUR YOONIS_Resume.docx)
  
  
 ## SKILLS
@@ -95,7 +95,7 @@
 - Data Science Nanodegree, *Udacity – Certificate*, April 2022
 - AWS Machine Learning, *Udacity – Certificate*, Aug 2021
 
-### Download Resume [here](https://github.com/ayyoonis/Portfolio/blob/main/Abdishakur_Yoonis_Resume.pdf)
+### Download Resume [here](https://github.com/ayyoonis/Portfolio/blob/main/ABDISHAKUR YOONIS_Resume.docx)
 
 
 
