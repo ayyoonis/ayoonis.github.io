@@ -49,8 +49,16 @@
 - User with Age between 25 and 35 are making top of number of trips
 
 ## EXPERIENCE
+#### Ramp Agent, *Menzies Aviation, Heathrow Airport, UK*
+###### APRIL 2022 – Permanent 
+- On-load and off-load baggage manually or mechanically, in accordance with the relevant training received
+- Undertake all relevant baggage sortation duties in a safe and efficient manner
+- Carry out area hazard checks
+- Report any faults or irregularities with equipment, facilities or processes to the appropriate
+- Operate position and remove company equipment, in a safe and efficient manner, in accordance with the relevant training received
+
 #### Picker, *AMAZON UK, Swindon, UK*
-###### JUN 2021 – Permanent 
+###### JUN 2021 – APRIL 2022 
 - Managing Amazon Robotics floor operations clearing the floor of obstructions, rebooting drives, resetting and clearing jams.
 - Organising misplaced products and add back products that meet quality standards
 - Responding to various errors from area associates such as verifying missing items and retrieving fallen products from
@@ -78,22 +86,29 @@
 - Excellent communication and interpersonal skills, ability to interact effectively with people at all levels
    
 ## EDUCATION
-- Computing Diploma, *Tower Hamlets College*, Jul 2011
-- Microsoft Certified Software Developer, *Microsoft UK – Certificate*, Feb 2014
+- MSc Software Engineering, *Kingston University*, Oct 2018
+- BSc Software Engineering, *London Metropolitan University*, Jul 2017
+- Microsoft Certified Software Developer, *Microsoft UK – Certificate*, Feb 2017
 - Exploratory Data Analysis in Excel, *LinkedIn Learning – Certificate*, 2018
 - Exploratory Data Analysis in SQL, *Datacamp – Certificate*, 2019
 - Introduction to SQL Server, *Datacamp – Certificate*, 2019
 - Intermediate to SQL Server, *Datacamp – Certificate*, 2019
 - Introduction to Relational Databases in SQL, *Datacamp – Certificate*, 2019
 - Pandas and Jupyter Notebook, *Datacamp – Certificate*, 2019
-- Data Engineering, *Datacamp – Certificate*, 2019
+- Data Engineering, *Datacamp – Certificate*, 2021
 - Machine Learning and Deep Learning, *Datacamp – Certificate*, 2019
 - Python 3 Programming, *Coursera – Certificate*, May 2019
 - Data Science - Specialisation at John Hopkins University, *Coursera – Certificate*, Sep 2019
 - Big Data - Specialisation at UC San Diego, *Coursera – Certificate*, Jan 2020
-- Data Analysis Nanodegree, *Udacity – Certificate*, Jun 2021
-- Data Science Nanodegree, *Udacity – Certificate*, April 2022
+- Data Analyst Nanodegree, *Udacity – Certificate*, Jun 2021
+- Data Scientist Nanodegree, *Udacity – Certificate*, April 2022
 - AWS Machine Learning, *Udacity – Certificate*, Aug 2021
+- Cleaning Data With Pyspark, *Datacamp – Certificate*, 2022
+- Introduction To Pyspark, *Datacamp – Certificate*, 2022
+- Data Analyst In Power BI, *Datacamp – Certificate*, 2022
+- Introduction To Power BI, *Datacamp – Certificate*, 2022
+- Introduction To DAX in Power BI, *Datacamp – Certificate*, 2022
+- Data Visualization In Power BI, *Datacamp – Certificate*, 2022
 
 ### Download Resume [here](https://github.com/ayyoonis/Portfolio/blob/main/ABDISHAKUR YOONIS_Resume.docx)
 
