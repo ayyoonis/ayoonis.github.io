@@ -7,10 +7,10 @@
  
 ## SKILLS
  
- - **Languages**: Python, R, SQL, HTML, CSS, JavaScript and many more
- - **OS**: Windows, Linux (Ubuntu 18.04)
+ - **Languages**: Python, R, SQL, HTML, CSS, JavaScript, C#, Java, C++ and many more
+ - **OS**: Windows with Active Directory, Linux (Ubuntu 18.04)
  - **Shell**: PowerShell, Bash
- - **Databses**: Microsoft SQL Server - (SSMS), PostgreSQL, Oracle SQL and Amazon Redshift
+ - **Databases**: Microsoft SQL Server - (SSMS), PostgreSQL, MySQL, Oracle SQL and Amazon Redshift
  - **NoSQL**: MongoDB, Cassandra and Amazon DynamoDB
  - **Business Intelligence and Data Visualisation**: Microsoft Power Bi, SQL, Microsoft Dynamics CRM, Advanced Excel, VBA, Tableau and Qlik
  - **Frameworks/Libraries**: Pandas, NumPy, SciPy, Statsmodels, Pyspark, Sci-kit Learn, Keras, NLTK, Gensim, Matplotlib, Seaborn, Plotly, Flask
