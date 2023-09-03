@@ -50,7 +50,7 @@
 
 ## EXPERIENCE
 ####  Ramp Agent, *Menzies Aviation, Heathrow Airport, UK*
-###### JAN 2019 – MARCH 2022 
+###### APRIL 2022 – PERMANENT 
 - On-load and off-load baggage manually or mechanically, in accordance with the relevant training received
 - Undertake all relevant baggage sortation duties in a safe and efficient manner
 - Carry out area hazard checks
