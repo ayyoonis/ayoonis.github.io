@@ -49,41 +49,22 @@
 - User with Age between 25 and 35 are making top of number of trips
 
 ## EXPERIENCE
-#### Ramp Agent, *Menzies Aviation, Heathrow Airport, UK*
-###### APRIL 2022 – Permanent 
+####  Ramp Agent, *Menzies Aviation, Heathrow Airport, UK*
+###### JAN 2019 – MARCH 2022 
 - On-load and off-load baggage manually or mechanically, in accordance with the relevant training received
 - Undertake all relevant baggage sortation duties in a safe and efficient manner
 - Carry out area hazard checks
 - Report any faults or irregularities with equipment, facilities or processes to the appropriate
 - Operate position and remove company equipment, in a safe and efficient manner, in accordance with the relevant training received
 
-#### Picker, *AMAZON UK, Swindon, UK*
-###### JUN 2021 – APRIL 2022 
-- Managing Amazon Robotics floor operations clearing the floor of obstructions, rebooting drives, resetting and clearing jams.
-- Organising misplaced products and add back products that meet quality standards
-- Responding to various errors from area associates such as verifying missing items and retrieving fallen products from
-  the robotics floor.
-- Maintain Amazon Robotics drives and bins by clearing crashes, clearing objects underneath drives
-- Reporting heavy situations to Facilities Operational Managers
 
-#### Mail Sorter, *Angard Staffing, Slough, UK*
-###### JUL 2015 – AUG 2021 Previous 
-- Excellent sorting mails and parcels including primary and secondary, tipping, cutting, segregating, Fiscal charge, TD,
-  E‐Prime, Red bags and Express custom, scanning, bag induct, bag closing, changing yorks and dispatching i.e., dock
-  doors with excellent team working and organisational skills
--	Excellent quick Sorting mails, segregating efficiently, scanning accurately, collecting progressively and working safely
-  with good manner
--	Bundling mail and parcels within a set area
--	Working flexible hours to deliver the outstanding levels of service our customers have come to expect
--	Working overtime when required, and working unsociable hours
--	Using a hand‐held computer device to scan barcodes from International Mail and Parcels
--	The ability to work in a team and individually
--	Accuracy and attention to detail
--	Ability to work under pressure, problem solving and meet targets and deadlines
--	Flexible outlook and openness to change be willing to carry out a variety of tasks and on occasions work at nearby
-  offices/take on additional work
-- Taking care of Foreign to Foreign, Mail/Parcel Damages, Signed for and Express
-- Excellent communication and interpersonal skills, ability to interact effectively with people at all levels
+#### Data Scientist/Data Analyst, *MSI Homes Group, Bristol, UK*
+###### JAN 2019 – MARCH 2022 
+- To predict house prices using time series analysis and neural networks.
+- Identify factors that predict which employees will have the best performance and which will benefit from a change in their job position using machine learning.
+- Designed the information architecture and model of an organization's assets.
+- Coordinated with the stakeholders on project progress.
+- Involved in the continuous enhancements and finding the best solution.
    
 ## EDUCATION
 - MSc Software Engineering, *Kingston University*, Oct 2018
