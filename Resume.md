@@ -92,7 +92,7 @@
 - Data Visualization In Power BI, *Datacamp – Certificate*, 2022
 - Data Analyst Diploma, *Pitman Training – Certificate*, 2023
 
-### Download Resume [here](https://github.com/ayyoonis/Portfolio/blob/main/ABDISHAKUR YOONIS_Resume.docx)
+### Download Resume [here](https://github.com/ayyoonis/Portfolio/blob/main/Resume.docx)
 
 
 
