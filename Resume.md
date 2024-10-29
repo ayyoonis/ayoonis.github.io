@@ -1,6 +1,6 @@
 # Abdishakur Yoonis
 
-##### ayoonis2000@gmail.com | 447306445645
+##### Abdishakur.Yoonis@ba.com | 447306445645
 ##### Slough, UK
 ##### [LinkedIn](https://www.linkedin.com/in/ayyoonis/) | [GitHub](https://github.com/ayyoonis) | [Portfolio](https://github.com/ayyoonis/Portfolio/)
  
@@ -50,17 +50,20 @@
 - User with Age between 25 and 35 are making top of number of trips
 
 ## EXPERIENCE
-####  Ramp Agent, *Menzies Aviation, Heathrow Airport, UK*
-###### APRIL 2022 – PERMANENT 
-- On-load and off-load baggage manually or mechanically, in accordance with the relevant training received
-- Undertake all relevant baggage sortation duties in a safe and efficient manner
-- Carry out area hazard checks
-- Report any faults or irregularities with equipment, facilities or processes to the appropriate
-- Operate position and remove company equipment, in a safe and efficient manner, in accordance with the relevant training received
+####  Ground Operations Agent, *British Airways, Heathrow Airport - T5, UK*
+###### JUNE 2024 – PERMANENT 
+- Physical fitness to handle manual tasks, including lifting items up to 32kg
+- Preparing aircraft for arrival, departure, and turnaround activities
+- Loading and unloading customer baggage, cargo and approved items onto the aircraft
+- Delivery of customer baggage to designated collection/drop-off points
+- Undertaking airside logistics activities for safe and timely aircraft arrivals and departures
+- Carrying out safety checks, raising and reporting any issues seen
+- Identifying continuous improvement opportunities and contributing to a safe, secure, and effective customer baggage operation at LHR
+- Responsible for the on-the-day delivery of turnaround activities, including baggage handling at LHR
 
 
-#### Data Scientist/Data Analyst, *MSI Homes Group, Bristol, UK*
-###### JAN 2019 – MARCH 2022 
+#### Data Scientist and Data Analyst (Volunteer)	, *MSI Homes Group, Bristol, UK*
+###### OCT 2019 – NOV 2021 
 - To predict house prices using time series analysis and neural networks.
 - Identify factors that predict which employees will have the best performance and which will benefit from a change in their job position using machine learning.
 - Designed the information architecture and model of an organization's assets.
